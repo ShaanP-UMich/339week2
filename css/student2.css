@@ -1,0 +1,41 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ 
+ nav li{
+    border: 2px solid black;
+    background-color: rgb(255, 204, 0);
+    border-radius: 15px;
+    font-family: 'Comic Sans', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20 px;
+    margin: 15 px;
+    width: 30%;
+    
+    display: inline-block;
+ }
+
+ img {
+    width: 24%;
+    padding: 11px;
+    box-sizing: border-box;
+    border: 9px dotted red;
+ }
+
+ p {
+    color: royalblue;
+    font-size: 18px;
+    line-height: 2;
+    text-align: right;
+ }
